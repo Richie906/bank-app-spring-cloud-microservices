@@ -35,4 +35,3 @@ This project is actively maintained by ABHISHEK SEEDARLA.
 ABHISHEK is a Software Engineer with 1+ years of professional experience, specializing in Java, Spring Boot, and microservices architecture. He is dedicated to building scalable, enterprise-grade applications and ensuring the continued development and stability of this project.
 
 -   **Email:** seedarlaabhishek62@gmail.com
--   **LinkedIn:** https://linkedin.com/in/naga-bhavani-652753225
